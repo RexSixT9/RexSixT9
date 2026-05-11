@@ -13,6 +13,7 @@ https://github-readme-stats.vercel.app/api?username=joshxfi&theme=midnight-purpl
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amal%20Raj&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Dev%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C705F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Learning+Daily)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **JavaScript & Python.**
 
