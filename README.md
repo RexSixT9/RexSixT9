@@ -11,7 +11,7 @@
 https://github-readme-stats.vercel.app/api?username=joshxfi&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amal%20Raj&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amal%20Raj&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Dev%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" />
 
 
 - 🌱 I’m currently learning **JavaScript & Python.**
