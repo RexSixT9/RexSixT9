@@ -28,5 +28,4 @@
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/github-snake-dark.svg)-->
 ![snake](https://github.com/RexSixT9/RexSixT9/blob/output/github-snake-dark.svg?palette=github-dark)
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)-->
-![](https://github-profile-trophy.vercel.app/?username=RexSixT9&theme=discord&no-frame=true&no-bg=true&margin-w=2)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RexSixT9&theme=midnight-purple&hide_border=false)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=RexSixT9&theme=midnight-purple&hide_border=false)-->
