@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=RexSixT9&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=RexSixT9&theme=midnight-purple&hide_border=true&short_numbers=true&mode=weekly)<br/>
 ![](https://git-hub-streak-stats.vercel.app?user=RexSixT9&theme=midnight-purple&hide_border=true&mode=daily)
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalrxj&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalrxj&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/github-snake.svg)-->
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/github-snake-dark.svg)-->
 ![snake](https://github.com/RexSixT9/RexSixT9/blob/output/github-snake-dark.svg?palette=github-dark)
