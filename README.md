@@ -12,6 +12,7 @@
 
 - ⚡ Fun fact: **The first rule of programming- if it works, don’t touch it. 💻**
 
+
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -55,13 +56,17 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RexSixT9&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=RexSixT9&theme=midnight-purple&hide_border=true)<br/>
-![](https://git-hub-streak-stats.vercel.app?user=RexSixT9&theme=midnight-purple&hide_border=true&mode=daily)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalrxj&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+<!--!![](https://github-readme-stats.vercel.app/api?username=RexSixT9&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br/>-->
+<!--!![](https://github-readme-streak-stats.herokuapp.com?user=RexSixT9&theme=midnight-purple&hide_border=true)<br/>-->
+<!--!![](https://git-hub-streak-stats.vercel.app?user=RexSixT9&theme=midnight-purple&hide_border=true&mode=daily)-->
+<!--!![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalrxj&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)-->
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/github-snake.svg)-->
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/github-snake-dark.svg)-->
-![snake](https://github.com/RexSixT9/RexSixT9/blob/output/github-snake-dark.svg?palette=github-dark)
+<!--!![snake](https://github.com/RexSixT9/RexSixT9/blob/output/github-snake-dark.svg?palette=github-dark)-->
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=RexSixT9&theme=midnight-purple&hide_border=false)-->
