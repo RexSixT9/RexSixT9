@@ -58,7 +58,7 @@
 
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/github-snake.svg)
 ![snake gif](https://github.com/amalrxj/amalrxj/blob/output/github-snake-dark.svg)-->
-!![snake](https://github.com/RexSixT9/RexSixT9/blob/output/github-snake-dark.svg?palette=github-dark)
+![snake](https://github.com/RexSixT9/RexSixT9/blob/output/github-snake-dark.svg?palette=github-dark)
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)-->
 <!--!![](https://github-readme-stats.vercel.app/api?username=RexSixT9&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br/>-->
 <!--!![](https://github-readme-streak-stats.herokuapp.com?user=RexSixT9&theme=midnight-purple&hide_border=true)<br/>-->
